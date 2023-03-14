@@ -1,1 +1,5 @@
 \contentsline {section}{Lecture 1: Determinism - Free Will - Combinationism}{1}{section*.2}%
+\contentsline {subsection}{\numberline {1.1}Power and Data Lordship}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Data power}{1}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Predictive machines}{2}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Quality and Quantity: people and data in the network}{2}{subsection.1.2}%
